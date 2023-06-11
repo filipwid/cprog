@@ -1,0 +1,1 @@
+To run the tests write "make all" and then "make tests". To run the balancetests simply write "make balancetest". Too run all tests through valgrind write "make valgrind", which compiles and runs both the testtree and testbalance tests through valgrind.
